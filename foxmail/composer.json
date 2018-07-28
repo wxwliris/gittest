@@ -1,0 +1,19 @@
+{
+    "name": "test/foxmail",
+    "description": "测试上传",
+    "keywords": ["foxmail"],
+    "type": "library",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "王网琴(小网)",
+            "email": "wangwq@yoozoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "index.php"
+        ]
+    }
+}
